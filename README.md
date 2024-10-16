@@ -111,7 +111,3 @@ citation format is:
   note = {Available from https://github.com/foxglove/mcap}
 }
 ```
-
-Please replace the version and date fields with the version of the software you
-used, and the date you obtained it. Citing MCAP will help spread awareness of
-the project and strengthen the ecosystem.
